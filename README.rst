@@ -1,4 +1,4 @@
-Certifi: Python SSL Certificates
+Certifi: Python SSL Certificate
 ================================
 
 `Certifi`_ is a carefully curated collection of Root Certificates for
